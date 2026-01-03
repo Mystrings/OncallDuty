@@ -1,0 +1,5 @@
+{
+  "name": "myOncall",
+  "description": "A streamlined incident management and on-call platform designed for SMBs and startups, featuring AI-powered triage and post-mortems.",
+  "requestFramePermissions": []
+}
